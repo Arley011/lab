@@ -20,9 +20,6 @@ void main() {
 	{
 		cout << "class D";
 	}
-	else if (abc >= 240 && abc <= 255)
-	{
-		cout << "class E";
-	}
+	
 	system("pause>>void");
 }
